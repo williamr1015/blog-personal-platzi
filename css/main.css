@@ -200,3 +200,50 @@ footer p {
 .blogpost-img-container {
     padding: 0 50px 40px;
 }
+
+.blogpost-img-container img {
+    width: 100%;
+}
+
+.blogpst-main-container {
+    padding: 0 50px 40px;
+}
+
+.blogpst-main-container h3 {
+    border-bottom: 1px #cdd2da;
+    padding-bottom: 20px;
+}
+
+.blogpost-main-container article h1 {
+    font-size: 35px;
+}
+
+.contac-main-container {
+    width: 100%;
+    min-height: 250px;
+    background-color: #e6e9ed;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.contac-main-container div {
+    display: inline-block;
+    width: 49.5%;
+    height: 100%;
+}
+
+.contac-main-container div a {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+.contac-main-container img {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.contac-main-container .contac-left,
+.contac-right {
+    margin-top: 85px;
+    text-align: initial;
+}
