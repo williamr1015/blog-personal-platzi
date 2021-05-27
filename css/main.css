@@ -223,14 +223,12 @@ footer p {
     min-height: 250px;
     background-color: #e6e9ed;
     text-align: center;
-    padding-bottom: solid 50px;
+    padding-bottom: 50px;
 }
 
 .contact-main-container div {
     display: inline-block;
-    width: 35%;
-    height: 100px;
-    margin-bottom: 50px;
+    width: 49.5%;
 }
 
 .contact-main-container div a {
